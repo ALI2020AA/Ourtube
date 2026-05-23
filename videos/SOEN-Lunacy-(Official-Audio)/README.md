@@ -1,0 +1,33 @@
+# SOEN-Lunacy-(Official-Audio)
+
+> 🆓 **نسخه رایگان** - کیفیت 360p
+> برای کیفیت بالاتر، MP3، زیرنویس و رمزگذاری به [workflow شماره 01](../../actions) بروید
+
+<div align="center">
+  <picture>
+    <img src="thumbnail.jpg" width="250" />
+  </picture>
+</div>
+
+---
+
+## Video Information
+
+| Property | Value |
+|----------|-------|
+| **Video Name** | `SOEN-Lunacy-(Official-Audio)` |
+| **Original Link** | [YouTube Video](https://www.youtube.com/watch?v=wKm_vj8LXPk) |
+| **Total Size** | **12.67 MB** |
+| **Quality** | **360p (Free)** |
+
+---
+
+## Download Link
+
+| # | File | Link |
+|---|------|------|
+| 1 | `SOEN-Lunacy-(Official-Audio).mp4` | [Download](https://raw.githubusercontent.com/ALI2020AA/Ourtube/main/videos/SOEN-Lunacy-%28Official-Audio%29/SOEN-Lunacy-%28Official-Audio%29.mp4) |
+
+---
+
+*🆓 Free Version - [avasam.ir](https://avasam.ir)*
